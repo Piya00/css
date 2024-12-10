@@ -1,4 +1,11 @@
-body{
-    /* color: black; */font-family: poppins;
 
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+p{
+
+    font-family: 'poppins-bold', sans-serif !important;
+    font-size: 14px;
+    line-height: 1.333;
+    margin-top: 0;
+    color:black;
+    text-align: center;
 }
